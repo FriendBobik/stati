@@ -1,0 +1,10 @@
+statphys-Burmistrov/*
+!statphys-Burmistrov/
+!statphys-Burmistrov/Lectures-StatPhys-final-ru.pdf
+!statphys-Burmistrov/Lectures-StatPhys-final.pdf
+
+exam/*
+!exam/
+!exam/ansv.pdf
+
+.DS_Store
